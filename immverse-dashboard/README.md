@@ -24,7 +24,7 @@ ImmverseAI Dashboard is a responsive web application built with Next.js and Tail
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/immverse-dashboard.git
+   git clone https://github.com/Rupeshfuse/ImmverseAI/tree/main/immverse-dashboard
    cd immverse-dashboard
 
 2. Install dependencies:
